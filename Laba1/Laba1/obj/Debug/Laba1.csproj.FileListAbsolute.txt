@@ -1,0 +1,11 @@
+D:\Универ\9 семестр\MIKPO\1\Laba1\Laba1\bin\Debug\Laba1.exe.config
+D:\Универ\9 семестр\MIKPO\1\Laba1\Laba1\bin\Debug\Laba1.exe
+D:\Универ\9 семестр\MIKPO\1\Laba1\Laba1\bin\Debug\Laba1.pdb
+D:\Универ\9 семестр\MIKPO\1\Laba1\Laba1\obj\Debug\Laba1.exe
+D:\Универ\9 семестр\MIKPO\1\Laba1\Laba1\obj\Debug\Laba1.pdb
+D:\Универ\9 семестр\MIKPO\Laba1\Laba1\bin\Debug\Laba1.exe.config
+D:\Универ\9 семестр\MIKPO\Laba1\Laba1\obj\Debug\Laba1.exe
+D:\Универ\9 семестр\MIKPO\Laba1\Laba1\obj\Debug\Laba1.pdb
+D:\Универ\9 семестр\MIKPO\Laba1\Laba1\bin\Debug\Laba1.exe
+D:\Универ\9 семестр\MIKPO\Laba1\Laba1\bin\Debug\Laba1.pdb
+D:\Универ\9 семестр\MIKPO\Laba1\Laba1\obj\Debug\Laba1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Универ\9 семестр\MIKPO\1\Laba1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Универ\9 семестр\MIKPO\1\Laba1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Универ\9 семестр\MIKPO\1\Laba1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Универ\9 семестр\MIKPO\1\Laba1\UnitTestProject1\bin\Debug\Laba1.exe
+D:\Универ\9 семестр\MIKPO\1\Laba1\UnitTestProject1\bin\Debug\Laba1.pdb
+D:\Универ\9 семестр\MIKPO\1\Laba1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Универ\9 семестр\MIKPO\1\Laba1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Универ\9 семестр\MIKPO\Laba1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Универ\9 семестр\MIKPO\Laba1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Универ\9 семестр\MIKPO\Laba1\UnitTestProject1\bin\Debug\Laba1.exe
+D:\Универ\9 семестр\MIKPO\Laba1\UnitTestProject1\bin\Debug\Laba1.pdb
+D:\Универ\9 семестр\MIKPO\Laba1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Универ\9 семестр\MIKPO\Laba1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Универ\9 семестр\MIKPO\Laba1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
